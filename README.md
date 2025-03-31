@@ -5,4 +5,4 @@ The dashboard's core functionality centers on identifying key drivers of churn. 
 
 Service usage patterns are meticulously analyzed, highlighting correlations between service adoption (PhoneService, InternetService, MultipleLines, OnlineSecurity, OnlineBackup, TechSupport) and customer churn. Visualizations reveal potential areas for service improvement or targeted promotions.
 
-https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/232e8f8a29156011e8c7b86c57d498b41d577bff/Churn_Analysis%20_DAshboard.jpg
+![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/232e8f8a29156011e8c7b86c57d498b41d577bff/Churn_Analysis%20_DAshboard.jpg)
