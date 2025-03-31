@@ -5,7 +5,7 @@ The dashboard's core functionality centers on identifying key drivers of churn. 
 
 Service usage patterns are meticulously analyzed, highlighting correlations between service adoption (PhoneService, InternetService, MultipleLines, OnlineSecurity, OnlineBackup, TechSupport) and customer churn. Visualizations reveal potential areas for service improvement or targeted promotions.
 
-![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/232e8f8a29156011e8c7b86c57d498b41d577bff/Churn_Analysis%20_DAshboard.jpg)
+![Image Alt]()
 
 Furthermore, the dashboard provides a detailed financial impact assessment, analyzing MonthlyCharges and TotalCharges to quantify the revenue loss associated with customer attrition. This enables ComX to prioritize retention efforts for high-value customers at risk. The relationship between payment methods, contract types, and churn is also explored, informing strategic retention initiatives.
 
