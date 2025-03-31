@@ -22,5 +22,8 @@ Ultimately, this Power BI dashboard empowers TechX to:
 By providing a clear and insightful view of customer churn, this dashboard serves as a vital tool for TechX to strengthen customer relationships and drive sustainable growth.
 
 Please find attached the Power BI file for [TechX_churn_rate_analysis]. You can use it to drill down and explore the data further for a comprehensive understanding.
-Download https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/cddc34fd351d4d255c9592689ffbfe18ade4df3b/TechX_churn_rate_analysis.pbix
+
+Download File:
+
+https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/cddc34fd351d4d255c9592689ffbfe18ade4df3b/TechX_churn_rate_analysis.pbix
 
