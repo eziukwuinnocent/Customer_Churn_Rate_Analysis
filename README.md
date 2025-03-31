@@ -20,3 +20,5 @@ Ultimately, this Power BI dashboard empowers TechX to:
 5. Enhance overall customer satisfaction and loyalty.
    
 By providing a clear and insightful view of customer churn, this dashboard serves as a vital tool for TechX to strengthen customer relationships and drive sustainable growth.
+
+Please find attached the Power BI file for [TechX_churn_rate_analysis]. You can use it to drill down and explore the data further for a comprehensive understanding.
