@@ -8,17 +8,13 @@
    
    2.3. Scope of Analysis
    
-3. Data and Methodology
+3. Key Findings
    
-   3.2. Analytical Approach
+   3.2. Churn by Demographics
    
-4. Key Findings
+   3.3. Churn by Subscription time
    
-   4.2. Churn by Demographics
-   
-   4.3. Churn by Subscription time
-   
-5. Recommendation and Actionable Insight
+4. Recommendation and Actionable Insight
    
 # 1. Executive Summary
 
@@ -66,7 +62,11 @@ The timeframe for this Churn Analysis focused on customers' transaction data for
 
 Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data Analysis Expressions (DAX) language was extensively used to create calculated columns for segmenting customers based on specific criteria and to develop key performance measures related to churn rate, customer engagement, and other relevant metrics. This scope allows for a comprehensive understanding of churn patterns and the identification of correlations that can inform effective retention initiatives.
 
-![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/fe3d5d6d88c2574c12ce46a912f991781e683c17/Churn_Analysis%20_DAshboard_3.jpg)
+# 3. Key Findings
+
+
+
+![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/fe3d5d6d88c2574c12ce46a912f991781e683c17/Churn_Analysis%20_DAshboard_3.jpg) 
 
 Ultimately, this Power BI dashboard empowers TechX to:
 
