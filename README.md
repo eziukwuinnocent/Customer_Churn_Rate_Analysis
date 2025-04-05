@@ -54,7 +54,17 @@ The primary objectives of this Churn Analysis Report are to:
 
 # 2.3. Scope of Analysis
 
+The timeframe for this Churn Analysis focused on customers'transaction data for the first six years of inception. The analysis includes all customers who were active at any point during this period. Data from key sources, including our Salesforce CRM, which tracks customer demographics and interactions and Keras, our billing system, providing subscription and payment history, was integrated and transformed for analysis within Power BI. The visualizations presented in this report, created using Power BI's robust capabilities, explore churn rates across various dimensions, including but not limited to:
 
+1. Customer demographics (e.g., Gender, SeniorCitizen, Partners, and Dependent).
+
+2. Contract (Month-to-Month, One year, Two year).
+
+3. Product/service (PhoneService, OnlineSecurity, MultipleLines, InternetService, etc.).
+
+4. PaymentMethod (Bank transfer(automatic), Credit card (automatic), Electronic check, Mailed check)
+
+Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data Analysis Expressions (DAX) language was extensively used to create calculated columns for segmenting customers based on specific criteria and to develop key performance measures related to churn rate, customer engagement, and other relevant metrics. This scope allows for a comprehensive understanding of churn patterns and the identification of correlations that can inform effective retention initiatives.
 
 ![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/fe3d5d6d88c2574c12ce46a912f991781e683c17/Churn_Analysis%20_DAshboard_3.jpg)
 
