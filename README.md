@@ -54,7 +54,7 @@ The primary objectives of this Churn Analysis Report are to:
 
 # 2.3. Scope of Analysis
 
-The timeframe for this Churn Analysis focused on customers'transaction data for the first six years of inception. The analysis includes all customers who were active at any point during this period. Data from key sources, including our Salesforce CRM, which tracks customer demographics and interactions and Keras, our billing system, providing subscription and payment history, was integrated and transformed for analysis within Power BI. The visualizations presented in this report, created using Power BI's robust capabilities, explore churn rates across various dimensions, including but not limited to:
+The timeframe for this Churn Analysis focused on customers' transaction data for the first six years of inception. The analysis includes all customers who were active at any point during this period. Data from key sources, including our Salesforce CRM, which tracks customer demographics and interactions and Keras, our billing system, providing subscription and payment history, was integrated and transformed for analysis within Power BI. The visualizations presented in this report, created using Power BI's robust capabilities, explore churn rates across various dimensions, including but not limited to:
 
 1. Customer demographics (e.g., Gender, SeniorCitizen, Partners, and Dependent).
 
