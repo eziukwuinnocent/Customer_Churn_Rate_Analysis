@@ -3,15 +3,20 @@
 # Table of Contents
 1. Executive Summary
 2. Introduction
+   
    2.2. Background of Objectives
+   
    2.3. Scope of Analysis
-3. Data and Methodology
+   
+4. Data and Methodology
+   
    3.2. Analytical Approach
-4. Key Findings
+6. Key Findings
    4.2. Churn by Demgraphics
    4.3. Churn by Subscription time
-5. Recommendation and Actionable Insight
+7. Recommendation and Actionable Insight
    
+# 1. Executive Summary
 
 This interactive Power BI dashboard delivers a comprehensive and actionable analysis of customer churn for TechX Telecommunications, empowering the company to proactively address and mitigate factors driving customer attrition. By integrating a rich dataset encompassing customer demographics, service utilization, and billing details, this dashboard transforms complex data into clear, compelling visualizations.
 
