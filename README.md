@@ -14,7 +14,7 @@
    
 4. Key Findings
    
-   4.2. Churn by Demgraphics
+   4.2. Churn by Demographics
    
    4.3. Churn by Subscription time
    
@@ -31,6 +31,18 @@ Service usage patterns are meticulously analyzed, highlighting correlations betw
 ![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/99e214843e6d21f86e52ae2dc9e0b2401ed43607/Churn_Analysis%20_DAshboard_2.jpg)
 
 Furthermore, the dashboard provides a detailed financial impact assessment, analyzing MonthlyCharges and TotalCharges to quantify the revenue loss associated with customer attrition. This enables TechX to prioritize retention efforts for high-value customers at risk. The relationship between payment methods, contract types, and churn is also explored, informing strategic retention initiatives.
+
+# 2. Introduction
+
+In today's competitive landscape, customer churn represents a significant challenge to sustained success. Losing customers not only impacts revenue but also increases acquisition costs and potentially damages brand reputation. This report addresses this critical issue by presenting a comprehensive analysis of customer churn for a period of six years. My objective is to move beyond simply quantifying attrition to understanding its root causes, allowing us to implement targeted strategies that proactively reduce churn and foster stronger customer relationships.
+
+# 2.2. Background of Objectives
+
+ Customer retention is a critical driver of sustainable growth and profitability for TechX Telecommunications. High churn rates can significantly impact revenue, increase customer acquisition costs, and negatively affect brand perception. Recognizing the importance of minimizing customer attrition, this analysis was initiated to gain a deeper understanding of why customers are leaving and to identify key areas for improvement in our customer experience and offerings.
+
+# 2.3. Scope of Analysis
+
+
 
 ![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/fe3d5d6d88c2574c12ce46a912f991781e683c17/Churn_Analysis%20_DAshboard_3.jpg)
 
