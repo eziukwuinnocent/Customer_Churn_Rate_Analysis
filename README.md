@@ -8,13 +8,17 @@
    
    2.3. Scope of Analysis
    
-4. Data and Methodology
+3. Data and Methodology
    
    3.2. Analytical Approach
-6. Key Findings
+   
+4. Key Findings
+   
    4.2. Churn by Demgraphics
+   
    4.3. Churn by Subscription time
-7. Recommendation and Actionable Insight
+   
+5. Recommendation and Actionable Insight
    
 # 1. Executive Summary
 
