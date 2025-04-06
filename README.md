@@ -86,12 +86,15 @@ Our analysis of a 7,043-customer dataset, highlighting a churn rate of approxima
    a). Improve Service Reliability and Performance:
        i. Invest in network infrastructure upgrades to minimize downtime and ensure consistent high-speed internet.
       ii. Proactively monitor network performance and address potential issues before they impact customers.
+      
    b). Enhance Customer Support for Fiber Optic Users:
        i.  Provide specialized technical support for fiber optic customers, addressing their unique needs and challenges.
        ii. Offer proactive communication regarding service updates, maintenance, and potential disruptions.
+       
    c). Value-Added Services and Bundling:
        i. Explore bundling fiber optic internet with other services (e.g., streaming, security) to increase customer value and retention.
       ii. Provide discounts, or free installation, or free equipment.
+      
     d).Customer feedback:
        i. Actively seek customer feedback, and implement changes based on that feedback.
 
