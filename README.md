@@ -64,7 +64,7 @@ The timeframe for this Churn Analysis focused on customers' transaction data for
 
 4. PaymentMethod (Bank transfer(automatic), Credit card (automatic), Electronic check, Mailed check)
 
-Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data Analysis Expressions (DAX) language was extensively used to create calculated columns for segmenting customers based on specific criteria and to develop key performance measures related to churn rate, customer engagement, and other relevant metrics. This scope allows for a comprehensive understanding of churn patterns and the identification of correlations that can inform effective retention initiatives.
+To facilitate this detailed analysis, Power BI's Data Analysis Expressions (DAX) language was extensively used to create calculated columns for segmenting customers based on specific criteria and to develop key performance measures related to churn rate, customer engagement, and other relevant metrics. This scope allows for a comprehensive understanding of churn patterns and the identification of correlations that can inform effective retention initiatives.
 
 # 3. Key Findings
 
