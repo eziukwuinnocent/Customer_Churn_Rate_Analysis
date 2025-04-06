@@ -64,7 +64,9 @@ Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data
 
 # 3. Key Findings
 
-![Image Alt](https://github.com/eziukwuinnocent/Images/blob/1d25454151c95f51a89a526702f8d2bc6a3a2890/CR_1.jpg)
+![Image Alt](https://github.com/eziukwuinnocent/Images/blob/b1d3e619a11b0aee8253e45a1a0f1f1b9b0fcd69/CR_3.jpg)
+
+
 
 Ultimately, this Power BI dashboard empowers TechX to:
 
