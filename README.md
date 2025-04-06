@@ -110,7 +110,7 @@ Key Considerations:
     Customer-Centric Approach: All recommendations should prioritize the customer experience and address their needs.
     Cross-Functional Collaboration: Implement these recommendations through collaboration between sales, marketing, customer service, and technical teams.
 
-By implementing these recommendations, the company can effectively reduce churn, improve customer retention, and enhance its overall business performance.
+By implementing these recommendations, the TechX Telecommunication can effectively reduce churn, improve customer retention, and enhance its overall business performance.
 
 
 Ultimately, this Power BI dashboard empowers TechX to:
