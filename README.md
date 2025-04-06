@@ -77,6 +77,7 @@ Our analysis of a 7,043-customer dataset, highlighting a churn rate of approxima
 # 4.1. Payment Method Optimization:
 
     a). Address Electronic and Mailed Check Pain Points:
+    
        i. Conduct customer surveys or focus groups to understand the specific challenges associated with electronic and mailed checks (e.g., processing delays, fees, lack of clarity).
       ii. Implement process improvements to streamline these payment methods, reducing errors and delays.
      iii. Provide clearer instructions, and payment reminders.
@@ -84,8 +85,9 @@ Our analysis of a 7,043-customer dataset, highlighting a churn rate of approxima
 # 4.2. Fiber Optic Service Enhancement:
 
    a). Improve Service Reliability and Performance:
-       i. Invest in network infrastructure upgrades to minimize downtime and ensure consistent high-speed internet.
-      ii. Proactively monitor network performance and address potential issues before they impact customers.
+   
+      i. Invest in network infrastructure upgrades to minimize downtime and ensure consistent high-speed internet.
+     ii. Proactively monitor network performance and address potential issues before they impact customers.
       
    b). Enhance Customer Support for Fiber Optic Users:
        i.  Provide specialized technical support for fiber optic customers, addressing their unique needs and challenges.
