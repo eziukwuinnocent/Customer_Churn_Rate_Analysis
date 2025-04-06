@@ -64,6 +64,7 @@ Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data
 
 # 3. Key Findings
 
+![Image Alt](https://github.com/eziukwuinnocent/Images/blob/4d1cab3eff99f26a99c99989f69c89cb8adc18e2/Demographics_Churn.jpg)  From the Demographic chart, 55.48% are new customers that have patronized our brand in less than a year. 50.24% of the whole customers' population are females, and 49.76% are males. In addition, the SeniorCitizens are customers above the age of 50, while Partner indicate whether a customer is married or not married, and the Dependents include those customers below the age of 18.  
 
 
 ![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/fe3d5d6d88c2574c12ce46a912f991781e683c17/Churn_Analysis%20_DAshboard_3.jpg) 
