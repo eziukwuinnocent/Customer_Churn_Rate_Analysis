@@ -88,8 +88,7 @@ Our analysis of a 7,043-customer dataset, highlighting a churn rate of approxima
    
       i. Invest in network infrastructure upgrades to minimize downtime and ensure consistent high-speed internet.
      ii. Proactively monitor network performance and address potential issues before they impact customers.
-      
-   b). Enhance Customer Support for Fiber Optic Users:
+ b). Enhance Customer Support for Fiber Optic Users:
        i.  Provide specialized technical support for fiber optic customers, addressing their unique needs and challenges.
        ii. Offer proactive communication regarding service updates, maintenance, and potential disruptions.
        
