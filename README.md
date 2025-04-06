@@ -16,9 +16,9 @@
    
 4. Recommendation and Actionable Insight
 
-4.1. Payment Method Optimization
+   4.1. Payment Method Optimization
 
-4.2. Fiber Optic Service Enhancement
+   4.2. Fiber Optic Service Enhancement
    
 # 1. Executive Summary
 
