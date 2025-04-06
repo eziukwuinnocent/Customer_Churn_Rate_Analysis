@@ -52,9 +52,9 @@ The primary objectives of this Churn Analysis Report are to:
 
 The timeframe for this Churn Analysis focused on customers' transaction data for the first six years of the company's inception. The analysis includes all customers who were active at any point during this period. Data from key sources, including our Salesforce CRM, which tracks customer demographics and interactions and Keras, our billing system, providing subscription and payment history, was integrated and transformed for analysis within Power BI. The visualizations presented in this report, created using Power BI's robust capabilities, explore churn rates across various dimensions, including but not limited to:
 
-1. Customer demographics (e.g., Gender, SeniorCitizen, Partners, and Dependent).
+1. Customer demographics (e.g., Gender, SeniorCitizen [>50 years of age], Partners [married or not married], and Dependent [<18 years of age]).
 
-2. Contract (Month-to-Month, One year, Two year).
+2. Contract [duration of Patronage] (Month-to-Month, One year, Two year).
 
 3. Product/service (PhoneService, OnlineSecurity, MultipleLines, InternetService, etc.).
 
@@ -64,10 +64,7 @@ Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data
 
 # 3. Key Findings
 
-![Image Alt](https://github.com/eziukwuinnocent/Images/blob/4d1cab3eff99f26a99c99989f69c89cb8adc18e2/Demographics_Churn.jpg)  From the Demographic chart, 55.48% are new customers that have patronized our brand in less than a year. 50.24% of the whole customers' population are females, and 49.76% are males. In addition, the SeniorCitizens are customers above the age of 50, while Partner indicate whether a customer is married or not married, and the Dependents include those customers below the age of 18.  
-
-
-![Image Alt](https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/fe3d5d6d88c2574c12ce46a912f991781e683c17/Churn_Analysis%20_DAshboard_3.jpg) 
+![Image Alt](https://github.com/eziukwuinnocent/Images/blob/1d25454151c95f51a89a526702f8d2bc6a3a2890/CR_1.jpg)
 
 Ultimately, this Power BI dashboard empowers TechX to:
 
