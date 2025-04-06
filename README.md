@@ -66,6 +66,11 @@ Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data
 
 ![Image Alt](https://github.com/eziukwuinnocent/Images/blob/b1d3e619a11b0aee8253e45a1a0f1f1b9b0fcd69/CR_2.jpg)
 
+Our analysis of a 7,043-customer dataset, highlighting a churn rate of approximately 27% (1,896 customers), indicates a year-over-year increase in customer attrition. Critical factors influencing churn include:
+
+   1. Payment Methods: Customers utilizing electronic and mailed checks demonstrate a disproportionately higher likelihood of churn.
+      
+   2. Internet Service: Fiber optic internet service subscribers exhibit a significantly elevated churn rate.
 
 
 Ultimately, this Power BI dashboard empowers TechX to:
