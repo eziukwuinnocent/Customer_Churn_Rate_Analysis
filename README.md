@@ -64,7 +64,7 @@ Key behavioral indicators. To facilitate this detailed analysis, Power BI's Data
 
 # 3. Key Findings
 
-![Image Alt](https://github.com/eziukwuinnocent/Images/blob/b1d3e619a11b0aee8253e45a1a0f1f1b9b0fcd69/CR_3.jpg)
+![Image Alt](https://github.com/eziukwuinnocent/Images/blob/b1d3e619a11b0aee8253e45a1a0f1f1b9b0fcd69/CR_2.jpg)
 
 
 
