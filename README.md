@@ -131,5 +131,5 @@ Please find attached the Power BI file for [TechX_churn_rate_analysis]. You can 
 
 Download File:
 
-https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/cddc34fd351d4d255c9592689ffbfe18ade4df3b/TechX_churn_rate_analysis.pbix
+https://github.com/eziukwuinnocent/Customer_Churn_Rate_Analysis/blob/main/TechX_churn_rate_analysis.pbix
 
